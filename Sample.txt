@@ -1,1 +1,72 @@
 Sample Text
+
+
+
+ pwd
+    2  ls -ltr
+    3  git clone https://github.com/naveen-roy-8688/Testing.git
+    4  git status
+    5  pwd
+    6  ls -ltr
+    7  git status
+    8  git add .
+    9  git status
+   10  git commit -m "Deleted one file"
+   11  git status
+   12  git push main
+   13  git status
+   14  git push origin main
+   15  git status
+   16  git log
+   17  git status
+   18  git .
+   19  git add .
+   20  git status
+   21  git commit -m "vasanth sir is very goog person"
+   22  git push origin main
+   23  git log
+   24  clear
+   25  git status
+   26  git add .
+   27  git status
+   28  git commit -m "Added sample text"
+   29  got log
+   30  git log
+   31  clear
+   32  git status
+   33  git add .
+   34  git status
+   35  git commit -m "Modified and added new file"
+   36  git log
+   37  git checkout 211d
+   38  git log
+   39  git checkout 4995
+   40  git log
+   41  git checkout main
+   42  git log
+   43  git branch
+   44  git branch naveen
+   45  git branch
+   46  git checkout naveen
+   47  git add .
+   48  git status
+   49  git commit -m "Added text in new branch"
+   50  git checkout main
+   51  git checkout naveen
+   52  git checkout main
+   53  git branch main-temp
+   54  git checkout main-temp
+   55  git checkout naveen
+   56  git branch naveen-temp
+   57  git checkout naveen-temp
+   58  git branch -d main-temp
+   59  git branch
+   60  git branch  -d naveen-temp
+   61  git checkout main
+   62  git branch  -d naveen-temp
+   63  git branch
+   64  git branch -D naveen-temp
+   65  git branch
+   66  git commit -m "new branch created"
+   67  git push origin main
+   68  history
